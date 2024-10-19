@@ -1,0 +1,17 @@
+.env
+.venv/
+.DS_Store
+.LSOverride
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ Test and coverage
+.pytest_cache/
+.coverage
+.vscode/
+dist/
+.tox/
+.mypy_cache/
+notes.txt
+review.txt
