@@ -1,6 +1,8 @@
 # Trello CLI
 A command line interface (CLI) to easily interact with a Trello board via the Trello API.
 
+![Flow chart](screenshots/flowchart.png)
+
 ## Prerequisites
 - Python 3.9 or above
 - Trello API key and token (refer to `.env.example`)
