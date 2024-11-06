@@ -1,12 +1,11 @@
-# Trello CLI Card Creator
+# Trello CLI
+A command line interface (CLI) to easily interact with a Trello board via the Trello API.
 
-A command line interface (CLI) to add cards to a Trello board via the Trello API.
-
-## Prerequisites 
+## Prerequisites
 - Python 3.9 or above
 - Trello API key and token (refer to `.env.example`)
 
-## Assumptions 
+## Assumptions
 - The Trello board and lists already exist
 
 ## Development Setup
@@ -43,9 +42,9 @@ A command line interface (CLI) to add cards to a Trello board via the Trello API
    ```
 4. Follow the CLI prompts to create a Trello card
 
-## Improvements for Future (Out of scope)
-- Implement ability to create Trello boards and lists if they don't exist
-- Add support for advanced fields such as due dates and markdown formatting
-- Set up GitHub CI/CD pipeline
-- Implement code quality tools (Tox, flake8)
-- Gracefully handle errors and edge cases
+## Improvements for Future
+[] Implement ability to create Trello boards and lists if they don't exist
+[] Add support for advanced fields such as due dates and markdown formatting
+[] Set up GitHub CI/CD pipeline
+[] Implement code quality tools (Tox, flake8)
+[] Gracefully handle errors and edge cases
