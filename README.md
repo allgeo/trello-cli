@@ -43,8 +43,8 @@ A command line interface (CLI) to easily interact with a Trello board via the Tr
 4. Follow the CLI prompts to create a Trello card
 
 ## Improvements for Future
-[] Implement ability to create Trello boards and lists if they don't exist
-[] Add support for advanced fields such as due dates and markdown formatting
-[] Set up GitHub CI/CD pipeline
-[] Implement code quality tools (Tox, flake8)
-[] Gracefully handle errors and edge cases
+- Implement ability to create Trello boards and lists if they don't exist
+- Add support for advanced fields such as due dates and markdown formatting
+- Set up GitHub CI/CD pipeline
+- Implement code quality tools (Tox, flake8)
+- Gracefully handle errors and edge cases
